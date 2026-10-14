@@ -1,0 +1,58 @@
+[
+  {
+    "id": "80f1e25d-96d3-4eb0-85aa-a0fca72334ba",
+    "slug": "chromatic-fields",
+    "title": "Chromatic Fields",
+    "client": "Studio exploration",
+    "category": "Motion",
+    "year": 2026,
+    "description": "A study in perpetual change. Organic structures emerge from a mathematical landscape, dissolving the boundary between the calculated and the unexpected.\n\nAn ongoing exploration of generative image-making, movement and colour.",
+    "credits": "Art direction, animation and sound - Form / Frequency",
+    "image": "/media/field.jpg",
+    "alt": "An intricate electric-green fractal landscape with dark branching structures",
+    "video": "/media/field.mp4",
+    "status": "published"
+  },
+  {
+    "id": "e220a1ce-9037-41c0-bb37-f0e025243aed",
+    "slug": "signal-noise",
+    "title": "Signal / Noise",
+    "client": "Independent research",
+    "category": "Sound",
+    "year": 2026,
+    "description": "Turning what we hear into what we see. A visual investigation of rhythm, interference and the moments of clarity in between.",
+    "credits": "Concept and audiovisual direction - Form / Frequency",
+    "image": "/media/signal.jpg",
+    "alt": "High-contrast magenta and cyan branching patterns",
+    "video": "/media/signal.mp4",
+    "status": "published"
+  },
+  {
+    "id": "09ddcdb4-c0ab-48d5-857a-c90558cd6c0e",
+    "slug": "soft-systems",
+    "title": "Soft Systems",
+    "client": "Identity study",
+    "category": "Identity",
+    "year": 2025,
+    "description": "An identity that refuses to stand still. A flexible visual system shaped by repetition, variation and playful disruption.",
+    "credits": "Creative direction and design - Form / Frequency",
+    "image": "/media/soft.jpg",
+    "alt": "Warm coral and blue interlocking abstract structures",
+    "video": "",
+    "status": "published"
+  },
+  {
+    "id": "601ce5a1-b29c-4666-b5f9-83f724a07155",
+    "slug": "another-dimension",
+    "title": "Another Dimension",
+    "client": "Spatial experiments",
+    "category": "Experiential",
+    "year": 2025,
+    "description": "An invitation to step inside the image. Exploring scale, perception and the way a moving visual can change our sense of a space.",
+    "credits": "Spatial concept and moving image - Form / Frequency",
+    "image": "/media/dimension.jpg",
+    "alt": "A luminous violet and turquoise abstract landscape",
+    "video": "",
+    "status": "published"
+  }
+]
